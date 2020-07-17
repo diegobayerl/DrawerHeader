@@ -105,13 +105,3 @@ const styles =  StyleSheet.create({
 })
 
 export default Sidebar;
-
-/*<Right>
-                    <MaterialCommunityIcons name="menu" style={{ 
-                        fontSize: 40, 
-                        position:"relative", 
-                        alignSelf:"flex-end", 
-                        marginTop: 5,
-                        color: '#FFFAFA'
-                        }} onPress={() => CloseDrawer()}/>
-                </Right> */
