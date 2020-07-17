@@ -1,8 +1,6 @@
 import React from 'react';
 import { MaterialCommunityIcons } from '@expo/vector-icons'; 
 import { View, Text, StyleSheet } from 'react-native';
-//import {StatusBar} from 'expo-status-bar';
-//<StatusBar style="dark" backgroundColor="#7D26CD" />
 
 const Header = (props) =>{
     
